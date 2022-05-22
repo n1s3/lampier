@@ -1,4 +1,4 @@
-# lampier
+# Lampier
 tcp client for interfacing with an esp32 controlled desk lamp
 
 # Make
@@ -12,5 +12,5 @@ gcc tcp_client.c -o lampier
 --version
 --help
 
-#Disclaimer
+# Disclaimer
 This program is far from finished at this time.
